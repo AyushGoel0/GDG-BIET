@@ -1,7 +1,7 @@
 import leftlogo from "../assets/leftlogo.svg"
 import rightlogo from "../assets/rightlogo.png"
 
-function Herosection(){
+function HeroSection(){
 
     return <div className="flex flex-row justify-between items-center h-full">
        <div className="object-cover h-48 flex justify-center w-auto"><img src={leftlogo}></img></div> 
@@ -10,4 +10,4 @@ function Herosection(){
     </div>
 }
 
-export default Herosection;
+export default HeroSection;
