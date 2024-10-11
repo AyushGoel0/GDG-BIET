@@ -1,7 +1,10 @@
+import Landingpage from "./pages/Landingpage"
+
 function App() {
   return (
     <>
-      <h1>Hello, GDG BIET!</h1>
+      <Landingpage></Landingpage>
+      
     </>
   )
 }
