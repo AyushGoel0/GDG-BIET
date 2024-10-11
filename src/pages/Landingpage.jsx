@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Circle from "../components/Circle";
 import Header from "../components/Header";
-import Herosection from "../components/HeroSection";
+import HeroSection from "../components/HeroSection";
 import Square from "../components/Square";
 
 function Landingpage(){
